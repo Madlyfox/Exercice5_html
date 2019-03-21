@@ -1,0 +1,20 @@
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(100, 100, 100);
+    letter-spacing: 1px;
+    
+}
+
+td,
+tr {
+    border: 1px solid rgb(100, 100, 100);
+    padding: 10px 3px;
+}
+
+td {
+    text-align: left;
+}
+th {
+    border: 1px solid rgb(100, 100, 100);
+    padding: 10px 10px;
